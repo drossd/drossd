@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @drossd
+- 👀 I’m interested in expanding my front-end skills
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on ...N/A
+- 📫 How to reach me - drop me an email on dafydd-rosser.development@protonmail.com
